@@ -6,6 +6,7 @@ namespace ClassMetotDemo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("ezgi");
 
             Musteri musteri1 = new Musteri();
             musteri1.Id = 43652189;
