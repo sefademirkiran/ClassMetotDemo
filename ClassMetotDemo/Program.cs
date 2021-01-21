@@ -6,6 +6,7 @@ namespace ClassMetotDemo
     {
         static void Main(string[] args)
         {
+
             Musteri musteri1 = new Musteri();
             musteri1.Id = 43652189;
             musteri1.MusteriAd = "Sefa";
